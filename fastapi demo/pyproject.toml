@@ -8,5 +8,7 @@ dependencies = [
     "aiosqlite>=0.22.1",
     "fastapi>=0.115.0",
     "fastapi-users[sqlalchemy]>=15.0.5",
+    "qdrant-client>=1.18.0",
+    "sentence-transformers>=5.5.1",
     "uvicorn>=0.30.0",
 ]
